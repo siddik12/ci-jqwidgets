@@ -1,0 +1,8 @@
+ci-jqwidgets
+=====================================================
+
+codeigniter 2.1.3
+jqwidgets 2.9.0
+
+1. server side grid filtering and sorting and paging
+http://host/ci-jqwidgets/index.php/grid
